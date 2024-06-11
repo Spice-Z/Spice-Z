@@ -1,4 +1,9 @@
-### Hi 👋
+### Hi, I'm Yugo 👋
+
+Hi, I'm Yugo!
+
+I'm a full stack developer with 5+ years of experience living in Vancouver. 🇨🇦
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=spice-z&theme=jolly&count_private=true&show_icons=true) 
 
