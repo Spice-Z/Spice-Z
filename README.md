@@ -18,7 +18,7 @@ It is specifically built for developers who want to showcase their code changes 
 
 <img src="https://github.com/Spice-Z/Spice-Z/assets/15419227/e53d85f0-43be-401a-95db-17d8604f3208" width=500 />
 
-<img src="https://github.com/Spice-Z/Spice-Z/assets/15419227/01e1e030-be17-4b18-97e5-2394b8bde499" width=465 />
+<img src="https://github.com/Spice-Z/Spice-Z/assets/15419227/475544e6-2cf3-4190-a07c-624363706073" width=465 />
 
 #### Technology
 
