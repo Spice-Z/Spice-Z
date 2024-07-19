@@ -14,8 +14,11 @@ My technical stack includes:
 - Amazon Web Services (AWS)
 - MongoDB
 - ... and more!
-
+  
 ![Stats](https://github-readme-stats.vercel.app/api?username=spice-z&theme=jolly&count_private=true&show_icons=true) 
+
+![Yugo's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Spice-Z)
+</div>
 
 ## My Side Projects
 
