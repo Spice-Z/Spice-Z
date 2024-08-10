@@ -4,6 +4,8 @@ Hi, I'm Yugo!
 
 I'm a full stack developer with 5+ years of professional experience (7 years including internships and part-time work) living in Vancouver, Canada. 🇨🇦
 
+My portfolio is available [here](https://yugo-ogura.com).
+
 My technical stack includes:
 
 - React, React Native
