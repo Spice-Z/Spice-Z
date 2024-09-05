@@ -24,6 +24,20 @@ My technical stack includes:
 
 ## My Side Projects
 
+### [LinkMemo](https://apps.apple.com/us/app/linkmemo-read-later-simple/id6661022541)
+
+LinkMemo is "read-it-later" mobile app.
+You can save and download the web page, and read it later.
+LinkMemo has multiple themes and text-to-speech features.
+
+![screenshots](https://github.com/user-attachments/assets/75da1d4c-af97-492a-b789-ac989a512b36)
+
+#### Technology
+
+- React Native (Expo)
+- firebase
+- Drizzle (with SQLite)
+
 ### [UgoCode](https://ugocode.com/)
 
 UgoCode is a powerful tool designed to create awesome code diff animations. 
@@ -53,7 +67,7 @@ All image processing is done in the browser, making CoraPic's image editing incr
 - TypeScript
 - AWS Amplify
 
-### [LinkMemo](https://chromewebstore.google.com/detail/linkmemo-simplest-read-la/ldjlfegijibnmliabfelcjpkbklicbhi)
+### [LinkMemo (Chrome Extension)](https://chromewebstore.google.com/detail/linkmemo-simplest-read-la/ldjlfegijibnmliabfelcjpkbklicbhi)
 
 LinkMemo is the simplest 'Read Later' Chrome Extension. You can easily save the URL and title of any page with a single click.
 
