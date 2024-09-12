@@ -1,26 +1,30 @@
-### Yugo Ogura 
+# Hi! Nice to meet you!😎
 
-Hi, I'm Yugo!
+I'm Yugo, Fullstack developer with 5+ years of professional experience based in  Vancouver, Canada. 🇨🇦
 
-I'm a full stack developer with 5+ years of professional experience (7 years including internships and part-time work) living in Vancouver, Canada. 🇨🇦
+### What I use in coding
+
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%0A7EA3)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 My portfolio is available [here](https://yugo-ogura.com).
-
-My technical stack includes:
-
-- React, React Native
-- TypeScript / JavaScript
-- Node.js
-- GraphQL
-- Google Cloud
-- Amazon Web Services (AWS)
-- MongoDB
-- ... and more!
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=spice-z&theme=jolly&count_private=true&show_icons=true) 
-
-![Yugo's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Spice-Z)
-</div>
 
 ## My Side Projects
 
@@ -34,9 +38,11 @@ LinkMemo has multiple themes and text-to-speech features.
 
 #### Technology
 
-- React Native (Expo)
-- firebase
-- Drizzle (with SQLite)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%0A7EA3)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 
 ### [UgoCode](https://ugocode.com/)
 
@@ -49,10 +55,10 @@ It is specifically built for developers who want to showcase their code changes 
 
 #### Technology
 
-- React
-- Astro
-- Tailwind.css
-- Cloudflare Pages
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ### [CoraPic](https://www.cora-pic.com/en)
 
@@ -63,9 +69,9 @@ All image processing is done in the browser, making CoraPic's image editing incr
 
 #### Technology
 
-- React, Next.js
-- TypeScript
-- AWS Amplify
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### [LinkMemo (Chrome Extension)](https://chromewebstore.google.com/detail/linkmemo-simplest-read-la/ldjlfegijibnmliabfelcjpkbklicbhi)
 
@@ -79,9 +85,7 @@ LinkMemo is the simplest 'Read Later' Chrome Extension. You can easily save the 
 
 #### Technology
 
-- Preact
-- TypeScript
-- Vite
+![Preact](https://img.shields.io/badge/Preact-purple?style=for-the-badge)
 
 ### Listen (Mobile App) - Closed
 
@@ -92,9 +96,11 @@ Created with React Native, it was available on both iOS and Android.
 
 #### Technology
 
-- React Native
-- TypeScript
-- GCP (Firebase, Cloud Run)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%0A7EA3)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![OpenAi](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 *Listen is already deprecated. I wrote a blog about why I closed this app [here](https://dev.to/rabspice/i-decided-to-close-my-mobile-app-3plg).
 
@@ -108,5 +114,13 @@ IT Trio ("ITトリオの日常") is a podcast where three developers talk about 
 
 #### Technology
 
-- Logic Pro
-- Astro (for the website)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Logic Pro](https://img.shields.io/badge/LogicPro-black?style=for-the-badge)
+
+## GitHub Stats
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=spice-z&theme=jolly&count_private=true&show_icons=true) 
+
+![Yugo's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Spice-Z)
+
+
